@@ -1,8 +1,8 @@
 # SpadeFinanceOEC
 
-##合约信息
+## 合约信息
 
-##了解更多详情
+## 了解更多详情
 
 有关SpadeFinance的信息，请认准以下社区渠道 
 
