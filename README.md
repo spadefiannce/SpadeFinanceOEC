@@ -2,6 +2,8 @@
 
 ## 合约信息
 
+$ SPE Token 0x015804c36E80D8abAc0Cd6a88C6E422fce55CD99
+
 ## 了解更多详情
 
 有关SpadeFinance的信息，请认准以下社区渠道 
