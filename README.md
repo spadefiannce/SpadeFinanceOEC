@@ -75,6 +75,62 @@ strategy:0xfFe0D09a61AC9e1240A4Af0bd20F53b57384f690
 Stoken:0x50334F36C369B1C8e0E70BED04a34CD0C81692A2
 
 
+
+NEWSimpleController : 0x823bbB933CfdCF30A64783226bcC4cABCc88e86D
+
+7.NEW Cheery CHE-USDT
+
+lp:0x089dedbfd12f2ad990c55a2f1061b8ad986bff88
+
+Vtoken:0xDb25cf5b8A49C33c1e86ee6EC4DadE36ceFFCd6D
+
+strategy:
+
+Stoken:
+
+8.NEW Cheery CHE-OKT
+
+lp:0x8e68c0216562bcea5523b27ec6b9b6e1cccbbf88
+
+Vtoken:0x684d2FBb4314eB3F4D20BaA66c4526a30F91Fe1d
+
+strategy:
+
+Stoken:
+
+9.NEW Cheery OKT-USDT
+
+lp:0xF3098211d012fF5380A03D80f150Ac6E5753caA8
+
+Vtoken:0x6CA2F43489608A80259C5fE81aCd46d7eB3B2280
+
+strategy:
+
+Stoken:
+
+10.NEW Cheery BTC-USDT
+
+lp:0x94E01843825eF85Ee183A711Fa7AE0C5701A731a
+
+Vtoken:0x3cd9eBc21b67EF3CbC4a9104D887f7CAd99176Bf
+
+strategy:
+
+Stoken:
+
+11.NEW Cheery ETH-USDT
+
+lp:0x407F7a2F61E5bAB199F7b9de0Ca330527175Da93
+
+Vtoken:0xeB5d09CBceaB82eF2A2d515AE3b4338f35cc49B9
+
+strategy:
+
+Stoken:
+
+
+
+
 ## 了解更多详情
 
 有关SpadeFinance的信息，请认准以下社区渠道 
